@@ -1,5 +1,5 @@
 # Distracted_Driver_Detection
-Distracted Driver Detection are project from kaggle competiton which you can find detail [here](https://www.kaggle.com/c/state-farm-distracted-driver-detection#description).I downloaded the data and utilized transfer-learning accrodding to pre-trained VGG19 model on ImageNet. After 10 batches, the accurate reached clost to 97%.
+Distracted Driver Detection are project from kaggle competition which you can find detail [here](https://www.kaggle.com/c/state-farm-distracted-driver-detection#description).I downloaded the data and utilized transfer-learning according to pre-trained VGG19 model on ImageNet. After 10 batches, the accurate reached close to 97%.
 
 ## Data structure
 Basicly, the data alrealy labeled into 10 different statues, from C0 to C9.
